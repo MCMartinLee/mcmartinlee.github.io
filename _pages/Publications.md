@@ -10,9 +10,13 @@ bar:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 ## Publications
-I have been exploring different approaches to model human conversations, focusing on turn managament, eye gaze mimic, and gesture generation:
+My research focus on multimodal conversational AI including turn managament, eye gaze mimic, and gesture generation:
 
 {% include feature_row id="bar" type="left" %}
+
+[**[Nature Scientific Data] Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze**](https://github.com/MCMartinLee/Multi-TPC)
+
+A large-scale multimodal dataset of three-party conversations with synchronized speech, motion, and gaze, and proposed TMEGNet, a baseline model for gesture synthesis and gaze prediction.
 
 [**[ICMI'25] Enhancing Gaze Prediction in Multi-Party Conversations via Speaker-Aware Multimodal Adaptation**](https://graphics.cs.uh.edu/wp-content/papers/2025/2025-ICMI-GazePredictionFromText.pdf)
 
@@ -45,8 +49,6 @@ baselines.
 **DialogueDiffu: Dyadic Conversational Co-Speech Gesture Synthesis** <br>
 A diffusion-based dyadic gesture synthesis framework that integrates contrastive multimodal pretraining and latent motion modeling to generate realistic, semantically aligned co-speech gestures.
 
-**Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze** <br>
-A large-scale multimodal dataset of three-party conversations with synchronized speech, motion, and gaze, and proposed TMEGNet, a baseline model for gesture synthesis and gaze prediction.
 
 ## Awards
 
