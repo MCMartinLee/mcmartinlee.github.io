@@ -14,9 +14,9 @@ My research focus on multimodal conversational AI including turn managament, eye
 
 {% include feature_row id="bar" type="left" %}
 
-[**[Nature Scientific Data] Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze**](https://github.com/MCMartinLee/Multi-TPC)
+[**[Sci. Data] Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze. Sci Data (2026).**](https://www.nature.com/articles/s41597-026-06819-x)
 
-A large-scale multimodal dataset of three-party conversations with synchronized speech, motion, and gaze, and proposed TMEGNet, a baseline model for gesture synthesis and gaze prediction.
+A large-scale multimodal dataset of three-party conversations with synchronized speech, motion, and gaze.
 
 [**[ICMI'25] Enhancing Gaze Prediction in Multi-Party Conversations via Speaker-Aware Multimodal Adaptation**](https://graphics.cs.uh.edu/wp-content/papers/2025/2025-ICMI-GazePredictionFromText.pdf)
 
